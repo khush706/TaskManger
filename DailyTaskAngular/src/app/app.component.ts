@@ -34,6 +34,7 @@ export class AppComponent {
   }
 
   loadAllTasks() {
+    this.taskList = [];
     this.http.get(this.getURL('api/getTasks')).subscribe((data: any) => {
       if (data != null && data.length > 0) {
         this.taskList = data;
@@ -50,6 +51,7 @@ export class AppComponent {
 
         this.http.post(this.getURL("api/addTask"), null, options).subscribe((res) => {
           if (res != null) {
+            this.formGroup.get("description")?.setValue("");
             alert("Task Added");
           }
         })
@@ -65,6 +67,7 @@ export class AppComponent {
 
         this.http.delete(this.getURL("api/deleteTask"), options).subscribe((res) => {
           if (res != null) {
+            this.deleteFormGroup.get("id")?.setValue("");
             alert("Task Deleted");
           }
         })
