@@ -1,0 +1,45 @@
+<h1>Task Manger</h1>
+
+<div class="buttons">
+  <button (click)="toggleTasks('load');this.loadAllTasks()">Get Tasks</button>
+  <button (click)="toggleTasks('add')">Add Tasks</button>
+  <button (click)="toggleTasks('delete')">Delete Tasks</button>
+</div>
+
+<div class="container">
+
+  <ng-container *ngIf="showTasks">
+    <ng-container *ngIf="taskList.length > 0">
+      <table>
+        <tbody>
+          <tr>
+            <th>ID</th>
+            <th>Description</th>
+            <th>Created Date</th>
+          </tr>
+          <ng-container *ngFor="let task of taskList">
+            <tr>
+              <td>{{task.Id}}</td>
+              <td>{{task.description}}</td>
+              <td>{{task.created_at}}</td>
+            </tr>
+          </ng-container>
+        </tbody>
+      </table>
+    </ng-container>
+  </ng-container>
+
+  <ng-container *ngIf="showAddTask">
+    <form [formGroup]="formGroup" (ngSubmit)="addTask()">
+      <input type="text" formControlName="description" placeholder="Please provide Description" required/>
+      <button type="submit">Insert Task</button>
+    </form>
+  </ng-container>
+
+  <ng-container *ngIf="showDeleteTask">
+    <form [formGroup]="deleteFormGroup" (ngSubmit)="deleteTask()">
+      <input type="text" formControlName="id" placeholder="Please provide Id" required/>
+      <button type="submit">Delete Task</button>
+    </form>
+  </ng-container>
+</div>

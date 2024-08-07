@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\DailyTaskApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|d:\\practice\\dailytaskapplication\\dailytaskapplication\\migrations\\20240807070254_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|solutionrelative:dailytaskapplication\\migrations\\20240807070254_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|d:\\practice\\dailytaskapplication\\dailytaskapplication\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|solutionrelative:dailytaskapplication\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|d:\\practice\\dailytaskapplication\\dailytaskapplication\\model\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|solutionrelative:dailytaskapplication\\model\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|d:\\practice\\dailytaskapplication\\dailytaskapplication\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|solutionrelative:dailytaskapplication\\model\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|d:\\practice\\dailytaskapplication\\dailytaskapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|solutionrelative:dailytaskapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|d:\\practice\\dailytaskapplication\\dailytaskapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{022FC265-E0B7-4C1C-B289-607CF66CEAAB}|DailyTaskApplication\\DailyTaskApplication.csproj|solutionrelative:dailytaskapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240807070254_DB Creation.cs",
+              "DocumentMoniker": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Migrations\\20240807070254_DB Creation.cs",
+              "RelativeDocumentMoniker": "DailyTaskApplication\\Migrations\\20240807070254_DB Creation.cs",
+              "ToolTip": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Migrations\\20240807070254_DB Creation.cs",
+              "RelativeToolTip": "DailyTaskApplication\\Migrations\\20240807070254_DB Creation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:02:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "DailyTaskApplication\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "DailyTaskApplication\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:38:24.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskDbContext.cs",
+              "DocumentMoniker": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Model\\TaskDbContext.cs",
+              "RelativeDocumentMoniker": "DailyTaskApplication\\Model\\TaskDbContext.cs",
+              "ToolTip": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Model\\TaskDbContext.cs",
+              "RelativeToolTip": "DailyTaskApplication\\Model\\TaskDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:19:17.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Model\\Task.cs",
+              "RelativeDocumentMoniker": "DailyTaskApplication\\Model\\Task.cs",
+              "ToolTip": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Model\\Task.cs",
+              "RelativeToolTip": "DailyTaskApplication\\Model\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:10:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "DailyTaskApplication\\appsettings.json",
+              "ToolTip": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\appsettings.json",
+              "RelativeToolTip": "DailyTaskApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T04:24:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Program.cs",
+              "RelativeDocumentMoniker": "DailyTaskApplication\\Program.cs",
+              "ToolTip": "D:\\Practice\\DailyTaskApplication\\DailyTaskApplication\\Program.cs",
+              "RelativeToolTip": "DailyTaskApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:55:04.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
